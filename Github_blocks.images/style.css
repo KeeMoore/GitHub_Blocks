@@ -1,0 +1,19 @@
+
+.octo {
+    width: 1500px;
+    height: 300px;
+    display: flex;
+    background-color: aquamarine;
+    justify-content: center;
+    margin: 10px;
+    padding: 10px;
+    
+}
+.octo img {
+    float: left;
+    margin-right: 10px;
+}
+h1{
+    justify-content: center;
+    text-align: center;
+}
