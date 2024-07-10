@@ -1,6 +1,6 @@
 
 .octo {
-    width: 1500px;
+    width: 100%;
     height: 300px;
     display: flex;
     background-color: cornflowerblue;
@@ -9,6 +9,19 @@
     padding: 20px;
     
 }
+.octo2 {
+    width: 100%;
+    height: 300px;
+    display: flex;
+    background-color: black;
+    justify-content: center;
+    margin: 20px;
+    padding: 20px;
+}
+
+
+
+
 .octo img {
     float: left;
     margin-right: 10px;
